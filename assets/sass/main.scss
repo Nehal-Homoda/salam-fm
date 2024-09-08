@@ -1,0 +1,25 @@
+@use './global/' as *;
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+// font-family: "Rubik", sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+// font-family: "Tajawal", sans-serif;
+
+* {
+    // font-family: "Rubik", sans-serif !important;
+    font-family: "Tajawal", sans-serif !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {}
+
+#__nuxt {
+    height: 100%;
+}
+
+
+

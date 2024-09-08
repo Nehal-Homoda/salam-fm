@@ -1,0 +1,53 @@
+{
+    "hello": "Hello",
+    "brand-name": "Salam FM",
+    "home": "Home",
+    "contact-us": "Contact Us",
+    "company": "Company",
+    "about": "About Us",
+    "our-objectives": "Our Objectives",
+    "fast-links": "Quick Links",
+    "privacy policy": "Privacy Policy",
+    "quran_title": "Recitation of the Holy Quran",
+    "social_media": "Social Media",
+    "app_header": {
+        "title": "Radio Quran Al-Kareem",
+        "subtitle": "Salam FM Radio is a digital radio dedicated to recitation and beautification of the Quran, Islamic chants, family-oriented social programs, and educational programs.",
+        "features": {
+            "feat_1": "Easy live listening to the Quran with various recitations, translations, and narrations.",
+            "feat_2": "Diverse high-quality Quranic recitations with tools for memorization and review.",
+            "feat_3": "Offline access to diverse Quranic recitations when internet connection is not available."
+        }
+    },
+    "about-us": {
+        "title": "About Us",
+        "description": "Radio Quran Salam FM is a simple website that took nearly two months of diligent work by a few experienced volunteers to create. It was later developed into Android and iOS apps under the name Radio Quran Salam FM. The radio has touched people's hearts and become a popular means to listen to the Quran, with over 100,000 downloads in a year. Last year, there were 189,000 hours of live streaming listening, leading to the decision to redesign and enhance the website."
+    },
+    "objectives": {
+        "title": "Objectives of Radio Quran Salam FM",
+        "obective_1": "Highlighting the importance of aesthetic presentation and its impact in attracting viewers, consistent with the saying of the Prophet Muhammad (peace be upon him): 'Indeed, Allah is beautiful and loves beauty.' Emphasis is placed on the Muslim's external appearance, which positively influences others.",
+        "obective_2": "Providing an easy-to-use tool for Muslims and non-Muslims to listen to the Quran seamlessly anytime through electronic devices. This convenient tool broadcasts selected beautiful recitations from the Quran by renowned reciters worldwide, available across various platforms.",
+        "obective_3": "Clarifying the importance of life sciences in the lives of Muslims, which may be equally important as religious sciences when intentions are correct. This website invites learning and reading in life sciences that have a positive (direct or indirect) impact on society, followed by their timely application."
+    },
+    "mobile-app": {
+        "title": "Mobile App",
+        "subtitle-1": "Listen to Quran recitation anywhere.",
+        "subtitle-2": "Never miss a day without listening to the Quran. Install the Salam FM app available on Android and iPhone."
+    },
+    "about_page": {
+        "about_us": {
+            "title": "Who We Are",
+            "description": "Welcome to the Quran Radio App, an application dedicated to spreading the teachings of Islam and the recitations of the Holy Quran to the widest possible audience. We are a team of specialists in the fields of technology and religious media, striving to provide exceptional and high-quality Quranic content to Muslims around the world."
+        },
+        "our_mission": {
+            "hero_1": {
+                "title": "Our Vision",
+                "description": "We aspire to be the primary source for Quranic recitations and religious instructions, maintaining the highest standards of quality and accuracy."
+            },
+            "hero_2": {
+                "title": "Our Mission",
+                "description": "To spread the teachings of Islam and the recitations of the Holy Quran, and to provide distinguished religious content that helps Muslims better understand their religion and get closer to God."
+            }
+        }
+    }
+}
